@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package com.gopal.array;
 
 public class MaxSubArrayPrefixSum {
     public static void maxSubArraySum(int numbers[]) {
