@@ -1,6 +1,6 @@
 //Question 4: What will be the type of the result in the following Java code?
 
-package com.gopal.assignments._01_assignment;
+package com.gopal.assignments._01_assignment_basics;
 
 public class _04_TypePromotion {
     public static void main(String[] args) {

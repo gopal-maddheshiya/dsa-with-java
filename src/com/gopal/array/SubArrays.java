@@ -12,8 +12,6 @@ public class SubArrays {
 
                     sum += numbers[k];
                     System.out.print(numbers[k] + " ");
-
-
                 }
                 System.out.print(", Sum is = " + sum);
                 ts++;

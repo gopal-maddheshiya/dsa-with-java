@@ -2,7 +2,7 @@
 // You have to output the total cost of the items back to the user as their bill.
 // Add-on: You can also try adding 18% GST to the total bill as an advanced problem.
 
-package com.gopal.assignments._01_assignment;
+package com.gopal.assignments._01_assignment_basics;
 
 import java.util.Scanner;
 
