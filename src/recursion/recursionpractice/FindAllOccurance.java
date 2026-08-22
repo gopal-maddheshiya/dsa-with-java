@@ -1,4 +1,4 @@
-package com.gopal.recursion.recursionpractice;
+package recursion.recursionpractice;
 
 public class FindAllOccurance {
     public static void allOcurrence(int arr[], int key, int i) {

@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 class Student {
     static int collegeCode = 101;

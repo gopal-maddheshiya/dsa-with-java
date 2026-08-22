@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class CallByValue {
     public static void swap(int a, int b) {

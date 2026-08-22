@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class Factorial {
     public static int factorial(int n) {

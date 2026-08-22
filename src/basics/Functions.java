@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class Functions {
     public static void greetings(int x, int y) { // parameters or formal parameters

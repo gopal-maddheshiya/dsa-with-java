@@ -1,4 +1,4 @@
-package com.gopal.recursion;
+package recursion;
 
 public class BinaryStringsProblem {
     public static void binaryStrings(int n, int lastPlace, String str) {

@@ -1,4 +1,4 @@
-package com.gopal.recursion.recursionpractice;
+package recursion.recursionpractice;
 
 import java.util.Scanner;
 

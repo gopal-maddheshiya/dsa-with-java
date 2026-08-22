@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class Product {
     public static int multiply(int a, int b) {

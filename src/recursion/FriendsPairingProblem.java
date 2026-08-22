@@ -1,4 +1,4 @@
-package com.gopal.recursion;
+package recursion;
 
 public class FriendsPairingProblem {
     public static int friendsPairing(int n) {

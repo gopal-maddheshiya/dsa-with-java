@@ -1,8 +1,7 @@
 // Question 3: Enter the cost of three items from the user (using the float data type): a pencil, a pen, and an eraser.
 // You have to output the total cost of the items back to the user as their bill.
 // Add-on: You can also try adding 18% GST to the total bill as an advanced problem.
-
-package com.gopal.assignments._01_assignment_basics;
+package assignments._01_assignment_basics;
 
 import java.util.Scanner;
 

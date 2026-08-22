@@ -1,4 +1,4 @@
-package com.gopal.recursion;
+package recursion;
 
 public class RecursionBasics {
     // Print number from n to 1 (decreasing order).

@@ -1,6 +1,5 @@
 //Question 2: In a program, input the side of a square. You have to output the area of the square.
-
-package com.gopal.assignments._01_assignment_basics;
+package assignments._01_assignment_basics;
 
 import java.util.Scanner;
 

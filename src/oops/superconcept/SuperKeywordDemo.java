@@ -1,4 +1,4 @@
-package com.gopal.oops.superconcept;
+package oops.superconcept;
 
 public class SuperKeywordDemo {
     public static void main(String args[]) {

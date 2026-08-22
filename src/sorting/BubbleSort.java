@@ -1,4 +1,4 @@
-package com.gopal.sorting;
+package sorting;
 
 public class BubbleSort {
     public static void bubbleSort(int arr[]) {

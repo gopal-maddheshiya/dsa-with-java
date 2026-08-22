@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class TrappingRainwater {
     public static int trappedRainwater(int height[]) {

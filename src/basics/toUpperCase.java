@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class toUpperCase {
     public static String toUpperCase(String str) {

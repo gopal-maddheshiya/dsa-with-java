@@ -1,4 +1,4 @@
-package com.gopal.array;
+package array;
 
 public class MaxInSubArray {
     public static void maxInSubArray(int numbers[]) {

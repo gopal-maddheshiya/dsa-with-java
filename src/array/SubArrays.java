@@ -1,4 +1,4 @@
-package com.gopal.array;
+package array;
 
 public class SubArrays {
     public static void printSubArrays(int numbers[]) {

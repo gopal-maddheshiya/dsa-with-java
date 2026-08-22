@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class AverageOfNum {
     public static int avgOfNum(int a, int b, int c) {

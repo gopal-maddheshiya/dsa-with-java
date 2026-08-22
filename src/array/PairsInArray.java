@@ -1,4 +1,4 @@
-package com.gopal.array;
+package array;
 
 public class PairsInArray {
     public static void pairs(int[] nums) {

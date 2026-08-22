@@ -1,4 +1,4 @@
-package com.gopal.oops.encapsulation;
+package oops.encapsulation;
 
 public class EncapsulationDemo {
     private int value; // Data Hiding

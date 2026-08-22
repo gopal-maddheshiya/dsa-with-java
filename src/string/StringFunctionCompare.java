@@ -1,4 +1,4 @@
-package com.gopal.string;
+package string;
 
 public class StringFunctionCompare {
     public static void main(String[] args) {

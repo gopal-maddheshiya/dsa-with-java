@@ -1,4 +1,4 @@
-package com.gopal.string;
+package string;
 
 public class StringBuilderExample {
     public static void main(String[] args) {

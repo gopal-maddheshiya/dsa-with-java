@@ -1,4 +1,4 @@
-package com.gopal.array;
+package array;
 
 import java.util.*;
 

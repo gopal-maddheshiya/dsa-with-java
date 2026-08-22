@@ -1,4 +1,4 @@
-package com.gopal.sorting;
+package sorting;
 
 public class BinarySearch {
     public static int binarySearch(int numbers[], int key) {

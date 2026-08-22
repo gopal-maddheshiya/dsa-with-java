@@ -1,4 +1,4 @@
-package com.gopal.array;
+package array;
 
 public class ArraysFunctionArgs {
     public static void updateMarks(int marks[], int nonChangble) {

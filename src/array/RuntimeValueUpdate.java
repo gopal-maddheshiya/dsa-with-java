@@ -1,4 +1,4 @@
-package com.gopal.array;
+package array;
 
 public class RuntimeValueUpdate {
     public static void main(String[] args) {

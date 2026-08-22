@@ -1,4 +1,4 @@
-package com.gopal.oops.polymorphism;
+package oops.polymorphism;
 
 class Product {
     public int multiply(int a, int b) {

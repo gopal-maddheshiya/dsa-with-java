@@ -1,4 +1,4 @@
-package com.gopal.oops.polymorphism;
+package oops.polymorphism;
 
 public class CompileTime {
     public static void main(String[] args) {

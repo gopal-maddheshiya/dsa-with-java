@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class Strings {
     public static void printLetters(String str) {

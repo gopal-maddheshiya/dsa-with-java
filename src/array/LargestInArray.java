@@ -1,4 +1,4 @@
-package com.gopal.array;
+package array;
 
 public class LargestInArray {
     public static int largestNumber(int[] numbers) {

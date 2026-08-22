@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class PatternPrinting {
     public static void rightAnglePattern(int a) {

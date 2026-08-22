@@ -1,4 +1,4 @@
-package com.gopal.string;
+package string;
 
 public class LargestString {
     public static String getLargestString(String[] fruits) {

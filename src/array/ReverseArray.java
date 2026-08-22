@@ -1,4 +1,4 @@
-package com.gopal.array;
+package array;
 
 public class ReverseArray {
     public static void reverseArray(int numbers[]) {

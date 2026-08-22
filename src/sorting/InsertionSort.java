@@ -1,4 +1,4 @@
-package com.gopal.sorting;
+package sorting;
 
 import java.util.Arrays;
 import java.util.Collections;

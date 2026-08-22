@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class BinomialCoefficient {
     public static int factorial(int n) {

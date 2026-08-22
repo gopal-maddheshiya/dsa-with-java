@@ -1,4 +1,4 @@
-package com.gopal.recursion;
+package recursion;
 
 public class RemoveDuplicates {
     public static void removeDuplicates(String str, int idx, StringBuilder newStr, boolean map[]) {

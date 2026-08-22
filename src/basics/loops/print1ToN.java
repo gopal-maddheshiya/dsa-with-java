@@ -1,4 +1,4 @@
-package com.gopal.basics.loops;
+package basics.loops;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class BinaryToDecimal {
     public static void binToDec(int binNum) {

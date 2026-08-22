@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class ShortestPath {
     public static float shortestPath(String path) {

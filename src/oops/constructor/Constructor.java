@@ -1,4 +1,4 @@
-package com.gopal.oops.constructor;
+package oops.constructor;
 
 class Student {
     String name;

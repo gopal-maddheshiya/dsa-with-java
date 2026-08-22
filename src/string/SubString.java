@@ -1,4 +1,4 @@
-package com.gopal.string;
+package string;
 
 public class SubString {
     public static String getSubString(String str, int si, int ei) {

@@ -1,4 +1,4 @@
-package com.gopal.oops.employee;
+package oops.employee;
 
 abstract class Employee {
     abstract void raiseSalary();

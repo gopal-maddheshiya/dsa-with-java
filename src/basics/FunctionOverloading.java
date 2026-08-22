@@ -1,4 +1,4 @@
-package com.gopal.basics;// Method overloading by parameters.
+package basics;// Method overloading by parameters.
 
 public class FunctionOverloading {
 //    public static int sum(int a, int b){

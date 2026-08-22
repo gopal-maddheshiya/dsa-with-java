@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class EvenNumber {
     public static boolean isEven(int n) {

@@ -1,4 +1,4 @@
-package com.gopal.sorting;
+package sorting;
 
 public class CountingSort {
     public static void countingSort(int arr[]) {

@@ -1,4 +1,4 @@
-package com.gopal.oops.abstraction;
+package oops.abstraction;
 
 public class InterfaceDemo {
     public static void main(String[] args) {

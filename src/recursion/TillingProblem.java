@@ -1,4 +1,4 @@
-package com.gopal.recursion;
+package recursion;
 
 public class TillingProblem {
     // Tilling Problem

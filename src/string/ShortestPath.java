@@ -1,4 +1,4 @@
-package com.gopal.string;
+package string;
 
 public class ShortestPath {
     public static int getShortestPath(String path) {

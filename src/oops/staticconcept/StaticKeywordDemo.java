@@ -1,4 +1,4 @@
-package com.gopal.oops.staticconcept;
+package oops.staticconcept;
 
 public class StaticKeywordDemo {
     public static void main(String[] args) {

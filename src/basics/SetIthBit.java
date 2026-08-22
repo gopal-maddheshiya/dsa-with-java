@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class SetIthBit {
     public static int setIthBit(int n, int i) {

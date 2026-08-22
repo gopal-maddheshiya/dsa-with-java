@@ -1,4 +1,4 @@
-package com.gopal.string;
+package string;
 
 public class ConvertToUppercase {
     public static String convertToUppercase(String str) {

@@ -1,4 +1,4 @@
-package com.gopal.searching;
+package searching;
 
 import java.util.Scanner;
 

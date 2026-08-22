@@ -1,4 +1,4 @@
-package com.gopal.oops.classandobject;
+package oops.classandobject;
 
 public class ClassAndObject {
     public static void main(String[] args) {

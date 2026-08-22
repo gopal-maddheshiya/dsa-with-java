@@ -1,4 +1,4 @@
-package com.gopal.basics.loops;
+package basics.loops;
 
 public class whileLoop {
     public static void main(String[] args) {

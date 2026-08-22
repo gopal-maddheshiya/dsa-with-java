@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class StringCompression {
     public static String compress(String str) {

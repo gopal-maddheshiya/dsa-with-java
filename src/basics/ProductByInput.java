@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 import java.util.*;
 

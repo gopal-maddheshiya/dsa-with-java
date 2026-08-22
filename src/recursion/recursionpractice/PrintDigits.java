@@ -1,4 +1,4 @@
-package com.gopal.recursion.recursionpractice;
+package recursion.recursionpractice;
 
 public class PrintDigits {
     public static void printDigits(int number) {

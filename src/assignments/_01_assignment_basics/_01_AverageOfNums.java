@@ -1,6 +1,5 @@
 //Question 1: In a program, input three numbers: A, B, and C. You have to output the average of these three numbers.
-
-package com.gopal.assignments._01_assignment_basics;
+package assignments._01_assignment_basics;
 
 import java.util.Scanner;
 

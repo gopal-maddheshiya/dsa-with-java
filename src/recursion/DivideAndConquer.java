@@ -1,4 +1,4 @@
-package com.gopal.recursion;
+package recursion;
 
 public class DivideAndConquer {
     public static void printArr(int arr[]) {

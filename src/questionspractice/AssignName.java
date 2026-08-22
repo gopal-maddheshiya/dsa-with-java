@@ -1,4 +1,4 @@
-package com.gopal.questionspractice;
+package questionspractice;
 
 public class AssignName {
     public static void main(String[] args) {

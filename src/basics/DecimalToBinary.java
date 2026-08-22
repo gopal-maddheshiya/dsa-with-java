@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class DecimalToBinary {
     public static void decToBin(int n) {

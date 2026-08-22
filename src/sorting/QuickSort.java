@@ -1,4 +1,4 @@
-package com.gopal.sorting;
+package sorting;
 
 public class QuickSort {
     public static void printArr(int[] arr) {

@@ -1,4 +1,4 @@
-package com.gopal.array;
+package array;
 
 public class MaxSubArrayKadanes {
     public static void kadanes(int numbers[]) {

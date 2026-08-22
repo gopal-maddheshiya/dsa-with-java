@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class StringPalindrome {
     public static boolean isPalindrome(String str) {

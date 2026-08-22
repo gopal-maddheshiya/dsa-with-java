@@ -1,4 +1,4 @@
-package com.gopal.oops.inheritance;
+package oops.inheritance;
 
 public class InheritanceDemo {
     public static void main(String args[]) {

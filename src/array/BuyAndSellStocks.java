@@ -1,4 +1,4 @@
-package com.gopal.array;
+package array;
 
 public class BuyAndSellStocks {
     public static int buyAndSellStocks(int prices[]) {

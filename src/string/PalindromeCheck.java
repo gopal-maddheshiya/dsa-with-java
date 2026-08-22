@@ -1,4 +1,4 @@
-package com.gopal.string;
+package string;
 
 public class PalindromeCheck {
     public static boolean isPalindrome(String str) {

@@ -1,4 +1,4 @@
-package com.gopal.basics;
+package basics;
 
 public class BitManipulation {
     public static void oddEven(int n) {
